@@ -13,7 +13,7 @@
             "cStandard": "c17",
             "cppStandard": "c++17",
             "intelliSenseMode": "${default}",
-            "compilerPath": "G:\\apps\\TDM-GCC-64\\bin\\gcc"
+            "compilerPath": "G:\\apps\\tdm-gcc\\bin\\gcc"
         }
     ],
     "version": 4
