@@ -10,10 +10,10 @@
                 "UNICODE",
                 "_UNICODE"
             ],
-            "cStandard": "c17",
-            "cppStandard": "c++17",
-            "intelliSenseMode": "${default}",
-            "compilerPath": "G:\\apps\\tdm-gcc\\bin\\gcc"
+            "compilerPath": "g:\\apps\\tdm-gcc\\bin\\gcc",
+            "cStandard": "c89",
+            "cppStandard": "c++98",
+            "intelliSenseMode": "windows-gcc-x64"
         }
     ],
     "version": 4
